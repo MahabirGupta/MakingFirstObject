@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="842ab416-a57d-4714-90ee-a94d46aca7c8" name="Changes" comment="" />
+    <list default="true" id="842ab416-a57d-4714-90ee-a94d46aca7c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MovieClass/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovieClass/MovieTestDrive.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2U8zhdy1UExAN5ndDAfDmUblDxi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +37,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -45,7 +50,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MovieTestDrive">
     <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DogClass.DogTestDrive" />
       <module name="Making FirstObject" />
@@ -53,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MovieTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieClass.MovieTestDrive" />
+      <module name="Making FirstObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MovieClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieTestDrive" />
         <item itemvalue="Application.DogTestDrive" />
       </list>
     </recent_temporary>
@@ -67,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692336123465</updated>
-      <workItem from="1692336132662" duration="1537000" />
+      <workItem from="1692336132662" duration="2447000" />
     </task>
     <task id="LOCAL-00001" summary="Create Dog class and object of Dog class to set size and call method">
       <option name="closed" value="true" />
@@ -85,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692337534364</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create Dog class and object of Dog class to set size and call method">
+      <option name="closed" value="true" />
+      <created>1692337863819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692337863820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Dog class package and moved Dog class and DogTestDrive class into dog package">
+      <option name="closed" value="true" />
+      <created>1692338048354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692338048354</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Dog class and object of Dog class to set size and call method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Dog class and object of Dog class to set size and call method" />
+    <MESSAGE value="Create Dog class package and moved Dog class and DogTestDrive class into dog package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Dog class package and moved Dog class and DogTestDrive class into dog package" />
   </component>
 </project>
