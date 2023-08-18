@@ -1,3 +1,7 @@
+package DogClass;
+
+import DogClass.Dog;
+
 public class DogTestDrive {
 
     public static void main(String[] args) {

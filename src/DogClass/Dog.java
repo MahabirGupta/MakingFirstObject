@@ -1,3 +1,5 @@
+package DogClass;
+
 public class Dog {
 
 //    Setting the instance variables
@@ -7,6 +9,6 @@ public class Dog {
 
 //    Create a bark() method
     void bark(){
-        System.out.println("Woof! Woof");
+        System.out.println("Woof! Woof!");
     }
 }

@@ -47,7 +47,7 @@
   </component>
   <component name="RunManager">
     <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DogTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="DogClass.DogTestDrive" />
       <module name="Making FirstObject" />
       <method v="2">
         <option name="Make" enabled="true" />
